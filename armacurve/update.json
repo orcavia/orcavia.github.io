@@ -2,5 +2,6 @@
   "product": "ArmaCurve",
   "latest_version": "1.0.0",
   "message": "A new version of ArmaCurve is available.",
-  "critical": false
+  "critical": false,
+  "content_signature": "9a7d2f1c44e8"
 }
